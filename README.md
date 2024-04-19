@@ -2,11 +2,11 @@
 
 ## Web Application Prototype for commercial businesses   
 
-This project was built as part of CCT College final technology assignement for the Higher diploma in science in computing.
+This project was built as part of CCT College final technology assignment for the Higher Diploma in Science in Computing.
 
-## The Application makes use of the following technologies/frameworks
+## The Application makes use of the following technologies and frameworks
 
-* Java as backend language. Including:
+* Java as Backend language. Including:
   - Java persisting API(JPA)
   - Java server pages(JSP)
   - Java database connector(JDBC) API to connect to the database.
